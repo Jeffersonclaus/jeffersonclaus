@@ -1,6 +1,6 @@
 ### Olá, Eu sou Jefferson Cluas 👋
 
- Sou formando em rede de computadores e estou aprendendo a programa com Java.
+ Sou formando em rede de computadores e estou aprendendo a programar na linguagem Java.
 
 
 <div align="center">

@@ -1,4 +1,4 @@
-### Olá, Eu sou jefferson Cluas 👋
+### Olá, Eu sou Jefferson Cluas 👋
 
  Sou formando em rede de computadores e estou aprendendo a programa com Java.
 

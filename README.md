@@ -10,7 +10,7 @@
 
   
     
-    ### Algumas conhecimentos adquiridos  👋
+    ### Algumas tecnologias  que tenho conhecimento  👋
   <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Apache-Ts" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg">

@@ -1,4 +1,4 @@
-### Olá, Eu sou Jefferson Cluas 👋
+### Olá, Eu sou Jefferson Claus 👋
 
  Sou formando em rede de computadores e estou aprendendo a programar na linguagem Java.
 
@@ -10,7 +10,7 @@
 
   
     
-    ### Algumas tecnologias  que tenho conhecimento  👋
+    ###  Tecnologias  que tenho conhecimento 👋
   <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Apache-Ts" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg">
